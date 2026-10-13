@@ -1,0 +1,23 @@
+{
+  "bookings": [
+    {
+      "id": 1,
+      "name": "Hemanth",
+      "phone": "7338311646",
+      "email": null,
+      "service_id": 1,
+      "service_name": "Full Home Deep Cleaning",
+      "address": "Shimoga",
+      "preferred_date": "2026-10-09",
+      "time_slot": "10:00 AM – 12:00 PM",
+      "instructions": "",
+      "status": "pending",
+      "created_at": "2026-10-07T13:06:08Z"
+    }
+  ],
+  "contact_messages": [],
+  "next_ids": {
+    "bookings": 2,
+    "contact_messages": 1
+  }
+}
